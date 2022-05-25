@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageFramework</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">示例单元</string>
+    <string name="next">加载一张图片</string>
+
+    <string name="hello_first_fragment">加载图片展示</string>
+</resources>
